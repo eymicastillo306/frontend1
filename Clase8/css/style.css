@@ -1,0 +1,29 @@
+body{
+    background: papayawhip;
+    border: 0px;
+    font-size: 18px;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.banner{
+    color: white;
+    text-align: center;
+    background-color: indianred;
+    border: 0px;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+h2{
+    background-color: bisque;
+}
+
+.footer{
+    background-color: indianred;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
